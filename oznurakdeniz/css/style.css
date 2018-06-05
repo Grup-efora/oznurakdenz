@@ -1,0 +1,112 @@
+body{
+    margin:0px;
+    font-family:Cursive;
+    color: white
+}
+footer {
+    border-top:3px solid orange;
+    background: black;
+    min-height: 50px; 
+}
+h2{
+    text-align: center;
+   text-decoration:underline;
+}
+.banner {
+    margin-top: 0px;
+    border-bottom: 3px solid orange;
+    background-color: black!important
+}
+.openmenu-btn {
+    border-radius:5px;
+    float: right;
+    background: black;
+    border:1px solid white;
+    color: white;
+    font-size: 20px;  
+}
+.openmenu-btn:focus {
+    background: black;
+    border:1px solid white;
+    color: white;
+    font-size: 20px;  
+}
+.openmenu {
+    text-align: center;
+    height: auto;
+    width: 100%;
+    background: orange;
+ 
+}
+.openmenu ul {
+    list-style: none;
+}
+.openmenu ul li {
+    padding-bottom: 0px;
+}
+.openmenu ul li h2 {
+    color: white;
+    padding-top:1px;
+}
+.openmenu ul li a {
+    margin-right:20px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+.mapdiv a {
+    padding: 0px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px; 
+}
+
+.personaldata{
+    border-left:2px solid orange;
+}
+.text{
+    margin-left:10px;
+    float: left;
+    padding-top:20px;
+    font-family:Cursive;
+}
+ .page{
+    padding-top:10px;
+    padding-left:7px;
+    font-size:15px;
+ }
+.hood{
+    font-size:30px;
+    padding-left:40px; 
+}
+.pagepath{
+    font-family:Cursive;
+    font-size:20px;
+    padding-left:40px; 
+}
+.side{
+    font-size:30px;
+    padding-left:40px; 
+}
+.content{
+    color:black;
+}
+.video{
+    padding-right:40px;
+    padding-top: 50px;
+    
+}
+.imagesdiv{
+    height: 420px;
+    padding: 0px;
+    -webkit-box-shadow: 0px 0px 1px 1px rgba(0,0,0,1);
+}
+hr{
+    width:90%;
+    border:1px dashed white;
+}
+.contenttext{
+    font-size:20px;
+    font-weight: bolder;
+}
